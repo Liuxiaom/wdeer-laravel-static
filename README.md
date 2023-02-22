@@ -1,0 +1,1 @@
+# wdeer-laravel-static
